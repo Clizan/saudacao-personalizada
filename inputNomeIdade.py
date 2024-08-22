@@ -6,7 +6,7 @@ idade = input("Digita a sua idade: ")
 idade = int(idade)
 
 # Criando uma saudação com nome e a idade
-saudacao = f"Olá, {nome}! Voc~e possuí {idade} anos."
+saudacao = f"Olá, {nome}! Você possuí {idade} anos."
 
 # Imprimindo a saudação
 print(saudacao)
